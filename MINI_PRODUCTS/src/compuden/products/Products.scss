@@ -1,0 +1,38 @@
+h2{
+
+text-align: center;
+font-size: 50px;
+    } 
+     hr{
+    width: 200px;
+  }
+    .products{
+    margin-top: 100px;
+    width: 100%;
+    height: 100%;
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap:30px;
+    
+    img {
+        width: 100%;
+        height: 250px;
+        border-radius: 5px;
+    }
+    .title{
+        border: 1px solid black;
+        padding: 10px;
+        border-radius: 5px;
+    }
+    button{
+        width: 100%;
+        padding-top: 9px;
+        padding-bottom: 9px;
+        border: none;
+        outline: none;
+        background-color: rgba(255, 192, 203, 0.616);
+    }
+         button:hover{
+            background-color: rgb(252, 152, 169);
+         }
+}

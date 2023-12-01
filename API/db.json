@@ -1,0 +1,18 @@
+{
+    "products":[
+       {
+        "name":"nambogili",
+        "price":54000,
+        "id":1,
+        "quantity":1,
+        "img":"https://www.carscoops.com/wp-content/uploads/2021/03/2021-Lamborghini-Urus-tuned-1016-industries-Green-Urnet-19.jpg"
+    },
+    {
+        "name":"biet thu",
+        "price":1000000,
+        "id":2,
+        "quantity":1,
+        "img":"https://static2.yan.vn/YanNews/2167221/202001/can-canh-dinh-thu-dep-nhu-cung-dien-1000-ty-cua-dai-gia-ninh-binh-8d26e56b.jpg"
+    }
+]
+}
